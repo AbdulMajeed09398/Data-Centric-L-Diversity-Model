@@ -4,6 +4,7 @@ This repository encloses implementation Codes/Functions used in the Data-centric
 
 **Main Modules of the proposed DLD  **
 There are two key modules in the proposed DLD model.
+<br>
 **1- Data Pre-processing
 <br>
 2- Shallow Anonymization**
