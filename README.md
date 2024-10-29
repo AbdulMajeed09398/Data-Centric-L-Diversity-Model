@@ -3,6 +3,7 @@
 This repository encloses implementation Codes/Functions used in the Data-centric L-diversity model (Synthetic data-aided anonymization model).
 
 **Main Modules of the proposed DLD  **
+<br>
 There are two key modules in the proposed DLD model.
 <br>
 1- Data Pre-processing
