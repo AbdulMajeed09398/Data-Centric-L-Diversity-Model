@@ -23,16 +23,16 @@ Four real-world publicly available datasets have been used to evaluate the effec
 
 1-Adult
 
-This is a reasonable-sized dataset encompassing US individuals' diverse information (demographics). The database and privacy community has widely used this dataset for experimentation purposes. This dataset in its original form is available at: http://archive.ics.uci.edu/dataset/2/adult. Further details about this dataset can be learned from https://ieeexplore.ieee.org/document/10214234
+This is a reasonable-sized dataset encompassing US individuals' diverse information (demographics). The database and privacy community has widely used this dataset for experimentation purposes. This dataset in its original form is available at: http://archive.ics.uci.edu/dataset/2/adult. 
 
 2- Stroke Prediction Dataset
 
-This data set has been widely used in machine learning, particularly, in imbalanced learning problems. This dataset has been widely used in many AI competitions due to higher imbalance. This dataset in its original form is available at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset. Further details about this dataset can be learned from https://ieeexplore.ieee.org/document/10214234
+This data set has been widely used in machine learning, particularly, in imbalanced learning problems. This dataset has been widely used in many AI competitions due to higher imbalance. This dataset in its original form is available at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset. 
 
 3- Census Income
 
-This is the largest dataset encompassing the diverse information of individuals. The database and privacy community has widely used this dataset also for experimentation purposes. This dataset in its original form is available at:http://archive.ics.uci.edu/dataset/117/census+income+kdd. Further details about this dataset can be learned from https://ieeexplore.ieee.org/document/10197160
+This is the largest dataset encompassing the diverse information of individuals. The database and privacy community has widely used this dataset also for experimentation purposes. This dataset in its original form is available at:http://archive.ics.uci.edu/dataset/117/census+income+kdd. 
 
 4- Diabetes 130-US Hospitals
-This is also the largest dataset encompassing the diverse medical information of individuals that was fetched from the clinical care at 130 US hospitals and integrated delivery networks. The database and privacy community has used this dataset also for experimentation purposes. This dataset in its original form is available at:[https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008]. Further details about this dataset can be learned from https://ieeexplore.ieee.org/document/10197160
+This is also the largest dataset encompassing the diverse medical information of individuals that was fetched from the clinical care at 130 US hospitals and integrated delivery networks. The database and privacy community has used this dataset also for experimentation purposes. This dataset in its original form is available at:[https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008].
 
