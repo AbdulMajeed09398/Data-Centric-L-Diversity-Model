@@ -2,7 +2,7 @@
 
 This repository encloses implementation Codes/Functions used in the Data-centric L-diversity (DCLD) model (Synthetic data-aided anonymization model).
 
-Main Modules of the proposed DCLD  **
+**Main Modules of the proposed DCLD **
 <br>
 There are two key modules in the proposed DCLD model.
 <br>
