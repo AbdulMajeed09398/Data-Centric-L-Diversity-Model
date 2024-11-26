@@ -36,9 +36,9 @@ This is the largest dataset encompassing the diverse information of individuals.
 4- Diabetes 130-US Hospitals
 This is also the largest dataset encompassing the diverse medical information of individuals that was fetched from the clinical care at 130 US hospitals and integrated delivery networks. The database and privacy community has used this dataset also for experimentation purposes. This dataset in its original form is available at:[https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008].
 
-Implementation process
+**Implementation process**
 
-At the outset, it is imperative to install all required libraries. Depending upon the programming language, the necessary libraries' should be included in the development environment.
-Below we show a sample to install basic data processing libraries and installation procedure.
-<code>pip install pandas numpy scikit-learn scipy</code>
+At the outset, it is imperative to install all required libraries. Depending upon the programming language, the necessary libraries should be included in the development environment.
+Below we show a sample to install basic data processing libraries and installation procedures in Python.
+<code>pip install name of library </code> i.e., <code>pip install numpy, pip install pandas, pip install scikit-learn, pip install scipy</code>
 
