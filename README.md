@@ -41,5 +41,6 @@ This is also the largest dataset encompassing the diverse medical information of
 
 At the outset, it is imperative to install all required libraries. Depending upon the programming language, the necessary libraries should be included in the development environment.
 Below we show a sample to install basic data processing libraries and installation procedures in Python.
-<code>pip install name of library </code> i.e., <code>pip install numpy, pip install pandas, pip install scikit-learn, pip install scipy</code>
+<code>pip install name of library </code> i.e., <code>pip install numpy, pip install pandas, pip install scikit-learn, pip install scipy</code>.
+
 
