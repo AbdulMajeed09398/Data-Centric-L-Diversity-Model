@@ -44,12 +44,19 @@ At the outset, it is imperative to install all required libraries. Depending upo
 Below we show a sample to install basic data processing libraries and installation procedures in Python.
 <code>pip install name of library </code> i.e., <code>pip install numpy, pip install pandas, pip install scikit-learn, pip install scipy</code>.
 
-Below, we provide the information of code that can help understand the implementation.
+Below, we provide the code information that can help understand the implementation and reproduce the results.
 
-| File Name | Purpose | Output
+| File Name | Purpose of implementation | Output
 | ------------- | ------------- | ------------- |
-| Arrange_Attributes.py  | Remove direct identifiers and arrange the remaining attributes  | Data with QIDs and SA only  |
-| Content Cell  | Content Cell  |Content Cell  |
+| Arrange_Attributes.py  | Remove direct identifiers and arrange the remaining attributes  | Data with QIDs and SA only (The last column is SA)  |
+| Missing_Values_Imputation (When duplicate Removal is needed ).py  | Clean the data from basic vulnerabilities (missing values, outliers, duplicates, etc.)  |Data with basic vulnerabilities fixed  |
+| Missing_Values_Imputation (When duplicate Removal is not needed ).py  | Clean the data from basic vulnerabilities (missing values, outliers, etc.)  |Data with basic vulnerabilities fixed   |
+| Missing_Values_Imputation (When duplicate Removal is not needed ).py  | Clean the data from basic vulnerabilities (missing values, outliers, etc.)  |Data with basic vulnerabilities fixed   |
+| Imbalance_Ratio_Computing_Records Analysis.py  | Analyze the imbalance w.r.t. SA & find the # of records needed for balance  |- imbalance ratio info, and size of Dnew  |
+| Interface_Program_SD_Generation.py  | Generating synthetic data[^1] to balance the distribution of rare SA value  |- Synthetic data  |
+
+[^1]: My reference, with further explanation and a [supporting link](https://website.com).
+
 
 
 
