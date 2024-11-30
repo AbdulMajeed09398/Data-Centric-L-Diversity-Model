@@ -61,7 +61,7 @@ Below, we provide the code information that can help understand the implementati
 
 [^1]: The open-source implementation was used with slight modifications [supporting link]([https://website.com](https://github.com/sdv-dev/CTGAN)).
 
-The file generalization_mappings.json  provides a generalized hierarchy information sample for QIDs that can assist in generalization when called from the main program.
+The file <code> generalization_mappings.json </code>  provides a generalized hierarchy information sample for QIDs that can assist in generalization when called from the main program. The file <code> requriements.txt </code>  provides the Python libraries that are required to execute the code.
 
 **Citing DCLD**
 If you use DCLD implementation, please cite the following work:
