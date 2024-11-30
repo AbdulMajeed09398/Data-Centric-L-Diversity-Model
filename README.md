@@ -38,7 +38,7 @@ This is the largest dataset encompassing the diverse information of individuals.
 This is also the largest dataset encompassing the diverse medical information of individuals fetched from the clinical care at 130 US hospitals and integrated delivery networks. The database and privacy community have also used this dataset for experimentation purposes. This dataset in its original form is available at [https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008].
 
 **Implementation process**
-byline
+\byline
 At the outset, it is imperative to install all required libraries. Depending upon the programming language, the necessary libraries should be included in the development environment.
 Below we show a sample to install basic data processing libraries and installation procedures in Python.
 <code>pip install name of library </code> i.e., <code>pip install numpy, pip install pandas, pip install scikit-learn, pip install scipy</code>.
