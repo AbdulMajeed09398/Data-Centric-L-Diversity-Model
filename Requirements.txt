@@ -1,0 +1,12 @@
+<--------------Python Packages/Libraries--------------->
+numpy
+pandas
+scikit-learn
+torch
+tqdm
+rdt
+<Version information in Dnew case can be acquired from: https://github.com/sdv-dev/CTGAN>
+time
+matplotlib
+seaborn
+scipy
