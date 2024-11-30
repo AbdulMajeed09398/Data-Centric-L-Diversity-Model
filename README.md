@@ -23,11 +23,11 @@ Four real-world publicly available datasets have been used to evaluate the effec
 
 1-Adult
 
-This is a reasonable-sized dataset encompassing US individuals' diverse information (demographics). The database and privacy community has widely used this dataset for experimentation purposes. This dataset in its original form is available at: http://archive.ics.uci.edu/dataset/2/adult. 
+This is a reasonable-sized dataset encompassing US individuals' diverse information (demographics). The database and privacy community have widely used this dataset for experimentation purposes. Its original form is available at http://archive.ics.uci.edu/dataset/2/adult. 
 
 2- Stroke Prediction Dataset
 
-This data set has been widely used in machine learning, particularly, in imbalanced learning problems. This dataset has been widely used in many AI competitions due to higher imbalance. This dataset in its original form is available at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset. 
+This data set has been widely used in machine learning, particularly in imbalanced learning problems. Due to its higher imbalance, it has also been widely used in many AI competitions. This dataset in its original form is available at https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset. 
 
 3- Census Income
 
@@ -35,12 +35,13 @@ This is the largest dataset encompassing the diverse information of individuals.
 
 4- Diabetes 130-US Hospitals
 
-This is also the largest dataset encompassing the diverse medical information of individuals that was fetched from the clinical care at 130 US hospitals and integrated delivery networks. The database and privacy community has used this dataset also for experimentation purposes. This dataset in its original form is available at:[https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008].
+This is also the largest dataset encompassing the diverse medical information of individuals fetched from the clinical care at 130 US hospitals and integrated delivery networks. The database and privacy community have also used this dataset for experimentation purposes. This dataset in its original form is available at [https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008].
 
 **Implementation process**
-
+byline
 At the outset, it is imperative to install all required libraries. Depending upon the programming language, the necessary libraries should be included in the development environment.
 Below we show a sample to install basic data processing libraries and installation procedures in Python.
 <code>pip install name of library </code> i.e., <code>pip install numpy, pip install pandas, pip install scikit-learn, pip install scipy</code>.
+
 
 
