@@ -53,10 +53,14 @@ Below, we provide the code information that can help understand the implementati
 | Missing_Values_Imputation (When duplicate Removal is not needed ).py  | Clean the data from basic vulnerabilities (missing values, outliers, etc.)  |Data with basic vulnerabilities fixed   |
 | Missing_Values_Imputation (When duplicate Removal is not needed ).py  | Clean the data from basic vulnerabilities (missing values, outliers, etc.)  |Data with basic vulnerabilities fixed   |
 | Imbalance_Ratio_Computing_Records Analysis.py  | Analyze the imbalance w.r.t. SA & find the # of records needed for balance  |- imbalance ratio info, and size of Dnew  |
-| Interface_Program_SD_Generation.py  | Generating synthetic data[^1] to balance the distribution of rare SA value  |- Synthetic data  |
+| Interface_Program_SD_Generation.py  | Generating synthetic data[^1] to balance the distribution of rare SA value  | Synthetic data with identical structure to real data  |
+| Data_Balancing_by_Adding_Dnew.py  | Generating balancing data by mixing Dnew and real data (only augmenting the rare SA class)  | Balanced and clean dataset (Most vulnerabilities are fixed)  |
+| Feature_Scores  (Best value Combinations are Desirable).py  | Identifying pattern friendly QIDs from the data  | Scores of the QIDs w.r.t. pattern information  |
+| KLDCriteria_Aware_Clustering.py  | Clustering data as per k and l value  | Clustered data where the size of each cluster is at least k and every cluster is 2-diverse  |
+| QIDs-Values_Replacements.py  |Generalized data with lower level generalization | Generalized data where the functional relationship between real and anonymized data is high |
 
 [^1]: The open-source implementation was used with slight modifications [supporting link]([https://website.com](https://github.com/sdv-dev/CTGAN)).
-
+The file generalization_mappings.json  provides a generalized hierarchy information sample for QIDs that can assist in generalization when called from the main program.
 
 
 
