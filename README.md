@@ -63,5 +63,7 @@ Below, we provide the code information that can help understand the implementati
 
 The file generalization_mappings.json  provides a generalized hierarchy information sample for QIDs that can assist in generalization when called from the main program.
 
-
+**Citing DCLD**
+If you use DCLD implementation, please cite the following work:
+[1] Citation will be added soon.
 
