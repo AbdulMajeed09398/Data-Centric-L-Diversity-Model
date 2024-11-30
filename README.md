@@ -59,7 +59,7 @@ Below, we provide the code information that can help understand the implementati
 | KLDCriteria_Aware_Clustering.py  | Clustering data as per k and l value  | Clustered data where the size of each cluster is at least k and every cluster is 2-diverse  |
 | QIDs-Values_Replacements.py  |Generalized data with lower level generalization | Generalized data where the functional relationship between real and anonymized data is high |
 
-[^1]: The open-source implementation was used with slight modifications [supporting link]([https://website.com](https://github.com/sdv-dev/CTGAN)).
+[^1]: The open-source implementation was used with slight modifications [supporting link]([[https://website.com](https://github.com/sdv-dev/CTGAN)]()).
 
 The file <code> generalization_mappings.json </code>  provides a generalized hierarchy information sample for QIDs that can assist in generalization when called from the main program. The file <code> requriements.txt </code>  provides the Python libraries that are required to execute the code.
 
