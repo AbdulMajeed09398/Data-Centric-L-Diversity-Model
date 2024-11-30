@@ -64,6 +64,8 @@ Below, we provide the code information that can help understand the implementati
 The file <code> generalization_mappings.json </code>  provides a generalized hierarchy information sample for QIDs that can assist in generalization when called from the main program. The file <code> requriements.txt </code>  provides the Python libraries that are required to execute the code.
 
 **Citing DCLD**
-If you use DCLD implementation, please cite the following work:
+
+If you use the DCLD implementation, please cite the following work:
+
 [1] Citation will be added soon.
 
