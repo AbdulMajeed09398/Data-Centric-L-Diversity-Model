@@ -44,5 +44,12 @@ At the outset, it is imperative to install all required libraries. Depending upo
 Below we show a sample to install basic data processing libraries and installation procedures in Python.
 <code>pip install name of library </code> i.e., <code>pip install numpy, pip install pandas, pip install scikit-learn, pip install scipy</code>.
 
+Below, we provide the information of code that can help understand the implementation.
+
+| File Name | Purpose | Output
+| ------------- | ------------- | ------------- |
+| Arrange_Attributes.py  | Remove direct identifiers and arrange the remaining attributes  | Data with QIDs and SA only  |
+| Content Cell  | Content Cell  |Content Cell  |
+
 
 
