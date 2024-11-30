@@ -60,6 +60,7 @@ Below, we provide the code information that can help understand the implementati
 | QIDs-Values_Replacements.py  |Generalized data with lower level generalization | Generalized data where the functional relationship between real and anonymized data is high |
 
 [^1]: The open-source implementation was used with slight modifications [supporting link]([https://website.com](https://github.com/sdv-dev/CTGAN)).
+
 The file generalization_mappings.json  provides a generalized hierarchy information sample for QIDs that can assist in generalization when called from the main program.
 
 
