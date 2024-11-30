@@ -55,7 +55,7 @@ Below, we provide the code information that can help understand the implementati
 | Imbalance_Ratio_Computing_Records Analysis.py  | Analyze the imbalance w.r.t. SA & find the # of records needed for balance  |- imbalance ratio info, and size of Dnew  |
 | Interface_Program_SD_Generation.py  | Generating synthetic data[^1] to balance the distribution of rare SA value  |- Synthetic data  |
 
-[^1]: My reference, with further explanation and a [supporting link](https://website.com).
+[^1]: The open-source implementation was used with slight modifications [supporting link]([https://website.com](https://github.com/sdv-dev/CTGAN)).
 
 
 
