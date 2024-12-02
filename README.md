@@ -56,7 +56,7 @@ Below, we provide the code information that can help understand the implementati
 | Interface_Program_SD_Generation.py  | Generating synthetic data[^1] to balance the distribution of rare SA value  | Synthetic data with identical structure to real data  |
 | Data_Balancing_by_Adding_Dnew.py  | Generating balancing data by mixing Dnew and real data (only augmenting the rare SA class)  | Balanced and clean dataset (Most vulnerabilities are fixed)  |
 | Feature_Scores  (Best value Combinations are Desirable).py  | Identifying pattern friendly QIDs from the data  | Scores of the QIDs w.r.t. pattern information  |
-| KLDCriteria_Aware_Clustering.py  | Clustering data as per k and l value  | Clustered data where the size of each cluster is at least k and every cluster is 2-diverse  |
+| KLDCriteria_Aware_Grouping.py  | Clustering data as per k and l value  | Clustered data where the size of each cluster is at least k and every cluster is 2-diverse  |
 | QIDs-Values_Replacements.py  |Generalized data with lower level generalization | Generalized data where the functional relationship between real and anonymized data is high |
 
 [^1]: The open-source implementation was used with slight modifications (https://github.com/sdv-dev/CTGAN). 
