@@ -69,5 +69,5 @@ The file <code> generalization_mappings.json </code>  provides a generalized hie
 
 If you use the DCLD implementation, please cite the following work:
 
-[1] Citation will be added soon.
+[1] A. Majeed and S. O. Hwang, "A Data-Centric  ℓ -Diversity Model for Securely Publishing Personal Data With Enhanced Utility," in IEEE Transactions on Big Data, doi: 10.1109/TBDATA.2024.3524832
 
